@@ -69,7 +69,7 @@ For immediate results:
 2. Run .ipynb notebooks on Google Colab with default settings
 3. Select XGBoost model for optimal performance (96.81% accuracy)
 
-📊 Expected Results
+## 📊 Expected Results
 
 · Accuracy: Up to 96.81% (Independent Testing)
 · MCC: Up to 0.96 (Cross-Validation)
