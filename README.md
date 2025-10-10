@@ -2,7 +2,7 @@
 # Overview
 Transposable elements (TEs), often known as jumping genes, are DNA sequences capable of moving within genomes and generating multiple dispersed copies of themselves. Accurate identification and classification of TEs are critical for understanding their biological roles and evolutionary impacts.
 This repository contains the dataset, feature extraction scripts, and machine learning models developed in our study for the classification of transposable elements (TEs). The project introduces a machine learning–driven pipeline (CTE-ML) based on a 4-step rule, designed to assist experimental scientists in achieving reliable and interpretable classification results.
-Key Features
+#Key Features 
 ## Comprehensive Dataset
 A benchmark dataset of 98,042 samples (49,042 positive and 49,000 negative) was used to classify TEs into their respective orders and superfamilies.
 ## Feature Extraction
