@@ -25,18 +25,29 @@ MCC up to 0.96 (Cross-Validation)
 Perfect 100% Sensitivity and Specificity in some self-consistency experiments
 These outcomes demonstrate that the combination of the proposed feature extraction technique and XGB classifier effectively captures hidden patterns within the genomic data, enabling precise classification of TEs.
 ## Repository Structure 
-├── Code/                    # Google Colab notebooks
-│   ├── TE_Non_TE_Classification.ipynb
-│   ├── TE Orders Classification.ipynb
-│   └── TE Superfamilies Classification .ipynb
-|    ├── Feature Space Visualization UMAP.ipynb              # 
-├── Dataset/                  # Fasta sequence
-│   ├── DNA Transposons
-│   ├── Retro Transposons 
-└── Feature Vectors/   
-    ├── Dataset1.csv
-    ├── Dataset2.csv
-    └── Dataset3.csv
+├── Code/                             # Google Colab notebooks
+
+      │ ├── TE_Non_TE_Classification.ipynb
+ 
+      │ ├── TE_Orders_Classification.ipynb
+
+      │ ├── TE_Superfamilies_Classification.ipynb
+    
+      │ └── Feature_Space_Visualization_UMAP.ipynb
+
+├── Dataset/                        # FASTA sequence
+
+      │ ├── DNA_Transposons/
+
+      │ └── Retro_Transposons/
+
+└── Feature_Vectors/
+
+        ├── Dataset1.csv
+
+        ├── Dataset2.csv
+
+        └── Dataset3.csv
 
 # 🔧 Basic Usage Steps
 
